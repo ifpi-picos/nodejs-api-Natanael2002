@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-api-natanael2002",
+  "version": "1.0.0",
+  "description": "nodejs-api-Natanael2002 created by GitHub Classroom",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifpi-picos/nodejs-api-Natanael2002.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifpi-picos/nodejs-api-Natanael2002/issues"
+  },
+  "homepage": "https://github.com/ifpi-picos/nodejs-api-Natanael2002#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
