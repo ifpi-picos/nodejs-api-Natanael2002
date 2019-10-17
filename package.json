@@ -1,23 +1,19 @@
 {
-  "name": "nodejs-api-natanael2002",
+  "name": "kingking2019",
   "version": "1.0.0",
-  "description": "nodejs-api-Natanael2002 created by GitHub Classroom",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ifpi-picos/nodejs-api-Natanael2002.git"
+    "url": "git+https://github.com/ifpi-picos/nodejs-api-KingKing2019.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ifpi-picos/nodejs-api-Natanael2002/issues"
+    "url": "https://github.com/ifpi-picos/nodejs-api-KingKing2019/issues"
   },
-  "homepage": "https://github.com/ifpi-picos/nodejs-api-Natanael2002#readme",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/ifpi-picos/nodejs-api-KingKing2019#readme"
 }
