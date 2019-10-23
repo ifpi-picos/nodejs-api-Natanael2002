@@ -1,9 +1,12 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const routes = require('./routes/');
+const routes = require('./routes')
+const mongo = require('./config/mongoodb');
 
 const app = express();
+
 app.use(bodyParser.json());
 app.use('/', routes);
+mongo();
 
-app.listen(2999, () => console.log('App Online...'));
+app.listen(2999, ()=> console.log('APP online...'))

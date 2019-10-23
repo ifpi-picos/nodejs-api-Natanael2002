@@ -1,19 +1,24 @@
 {
-  "name": "kingking2019",
+  "name": "nodejs-api-derpdzn",
   "version": "1.0.0",
-  "description": "",
+  "description": "nodejs-api-Natanael2002 created by GitHub Classroom",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ifpi-picos/nodejs-api-KingKing2019.git"
+    "url": "git+https://github.com/ifpi-picos/nodejs-api-DerpDzn.git"
   },
-  "author": "",
+  "author": "jonatas",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ifpi-picos/nodejs-api-KingKing2019/issues"
+    "url": "https://github.com/ifpi-picos/nodejs-api-DerpDzn/issues"
   },
-  "homepage": "https://github.com/ifpi-picos/nodejs-api-KingKing2019#readme"
+  "homepage": "https://github.com/ifpi-picos/nodejs-api-DerpDzn#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.5"
+  },
+  "devDependencies": {}
 }
